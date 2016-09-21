@@ -34,3 +34,17 @@ set expandtab
 " Display line numbers on the left
 set number
 
+set background=dark
+
+" Enable incremental search
+set incsearch
+
+" Enable highlight search
+set hlsearch
+
+" Highlight line under cursor
+set cursorline
+
+" Set the viminfo location
+set viminfo+=n~/.viminfo
+
